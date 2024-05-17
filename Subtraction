@@ -1,6 +1,8 @@
 #!/bin/bash
 
-#Subtraction
-x = 5-4
+#Subtration
 
-y = 8-3
+for ((number = 9; number >=0; number = number - 2))
+do
+   echo "$umber"
+done
